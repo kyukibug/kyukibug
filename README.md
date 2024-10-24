@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! I'm Alex 👋
 
-<!--
-**kyukibug/kyukibug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Computer Science Student @ University of Michigan 
+I’m passionate about making cool stuff and connecting with cool people. Let's chat!!
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛹 What I’m Up To...
+- Making Finspo
+- Teaching Web Systems
+- Learning how to BS180
+- Waiting in line at State St. Chipotle
+- Sleeping or Eating...
+
+------
+
+## 🌱 A Bit About Me!
+- Chipotle Enthusiast
+- Photography Hobbiest
+- Skateboarder (I'm not steezy)
+- Taekwondo Fighter
+- Playa Bowl Addict
+
+
+------
+
+### Let’s Connect! 📬
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/alexni-x/)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:axni@umich.edu)
