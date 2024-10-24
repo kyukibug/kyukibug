@@ -14,7 +14,7 @@ I’m passionate about making cool stuff and connecting with cool people. Let's 
 
 ------
 
-## 🌱 A Bit About Me!
+## 🌯 A Bit About Me!
 - Chipotle Enthusiast
 - Photography Hobbiest
 - Skateboarder (I'm not steezy)
