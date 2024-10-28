@@ -9,15 +9,15 @@ I’m passionate about making cool stuff and connecting with cool people. Let's 
 - Making Finspo
 - Teaching Web Systems
 - Learning how to BS180
-- Waiting in line at State St. Chipotle
-- Sleeping or Eating...
+- Waiting in line at the State St. Chipotle
 
 ------
 
 ## 🌯 A Bit About Me!
 - Chipotle Enthusiast
-- Photography Hobbiest
-- Skateboarder (I'm not steezy)
+- I love cats! 🐈
+- I've recently picked up photography as a hobby!
+- I skateboard and try to be steezy (I'm not)
 - Taekwondo Fighter
 - Playa Bowl Addict
 
