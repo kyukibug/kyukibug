@@ -8,6 +8,7 @@ I’m passionate about making cool stuff and connecting with cool people. Let's 
 ## 🛹 What I’m Up To...
 - Making Finspo
 - Teaching Web Systems
+- Experimenting with Electric Guitar
 - Learning how to BS180
 - Waiting in line at the State St. Chipotle
 
@@ -18,7 +19,7 @@ I’m passionate about making cool stuff and connecting with cool people. Let's 
 - I love cats! 🐈
 - I've recently picked up photography as a hobby!
 - I skateboard and try to be steezy (I'm not)
-- Taekwondo Fighter
+- I train Taekwondo
 - Playa Bowl Addict
 
 
