@@ -1,7 +1,7 @@
 # Hi!! I'm Alex 👋
 
-### Junior Computer Science Student @ University of Michigan 
-I’m passionate about making cool stuff and connecting with cool people. Let's chat!!
+### Senior Computer Science Student @ University of Michigan 
+I’m passionate about making cool stuff and connecting with cool people B)
 
 ------
 
