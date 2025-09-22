@@ -1,6 +1,6 @@
 # Hi!! I'm Alex 👋
 
-### Senior Computer Science Student @ University of Michigan 
+### Computer Science Student @ University of Michigan 
 I’m passionate about making cool stuff and connecting with cool people B)
 
 ------
